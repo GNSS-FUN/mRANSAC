@@ -1,6 +1,6 @@
 # mRANSAC
 
-** Used thier code: **
+Used thier code: 
 
  [RTKLIB](https://github.com/tomojitakasu/RTKLIB/tree/rtklib_2.4.3)
  
